@@ -1,0 +1,13 @@
+{
+  "name": "chillapp",
+  "version": "1.0.0",
+  "description": "small meditation app",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "author": "Alfonso",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}

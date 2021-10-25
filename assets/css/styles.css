@@ -1,0 +1,23 @@
+video {
+  object-fit: cover;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  bottom: 0%;
+  width: 100vw;
+  height: 100vh;
+  z-index: -10;
+  overflow: auto;
+}
+
+svg {
+  position: absolute;
+  height: 40%;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-90deg);
+}
+
+.play_icon {
+  z-index: 10;
+}
